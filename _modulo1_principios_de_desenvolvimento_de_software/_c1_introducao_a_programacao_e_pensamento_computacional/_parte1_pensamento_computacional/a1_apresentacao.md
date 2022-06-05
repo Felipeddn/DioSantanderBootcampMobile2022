@@ -8,7 +8,7 @@ A instrutora fala um pouco sobre sua vida academica e sobre as ferramentas que e
 
 fazer entender o que significa pensar computacionalmente. pensamento que é aplicável a qualquer área de conhecimento.
 
-capacita para resolver qualquer problema de uma maneira mais objetiva e eficiente.
+O pensamento computacional capacita para resolver qualquer problema de uma maneira mais objetiva e eficiente.
 
 ## Percurso
 

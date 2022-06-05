@@ -1,5 +1,7 @@
 # Aula 1 - Pensamento computacional
 
+Instrutora do Curso: Juliana Mascarenhas
+
 ## Objetivo geral
 
 Apresentar os conceitos que caracterizam o pensamento computacional, permitindo que o desenvolvedor entenda o que significa pensar computacionalmente.
@@ -26,7 +28,7 @@ Etapa 9 - Estudo de caso aplicado: Adivinhe um número
 
 # Etapa 1 - Introdução ao pensamento computacional 
 
-Pensamento Computacional?
+O que é o Pensamento Computacional?
 
 Processo de pensamento envolvido na expressão de soluções em passos computacionais ou algoritmos que podem ser implementados no computador. (Aho, 2011; Lee, 2016).
 
@@ -55,9 +57,9 @@ significativa a abordagem dada ao problema.
 Design de algoritmos
 Quando pensamos na solução do problema, precisamos ordenar os passos que devem ser seguidos para a solução do problema.
 
-Solucionar um problema é um processo contínuo
+Solucionar um problema é um processo contínuo, as etapas abaixo são sempre repetidas, então ao fim de *aperfeiçoar* volta para *define-se*, assim sempre.
 
- Define-se uma solução -> Testa-se a solução -> Aperfeiçoa-se a solução 
+Define-se uma solução -> Testa-se a solução -> Aperfeiçoa-se a solução 
 
 Competências desenvolvidas com o pensamento computacional
 
