@@ -22,9 +22,9 @@ semana 2
 segunda 06/06 - tempo estudado: 1:31:00 (tempo minimo diário)  
 terça 07/06 - tempo estudado:   
 quarta 08/06 - tempo estudado:   
-quinta 09/06 - tempo estudado: 
-sexta 10/06 - tempo estudado: 
-sabado 11/06 - tempo estudado: 
-domingo 12/06 - tempo estudado: 
+quinta 09/06 - tempo estudado:  
+sexta 10/06 - tempo estudado:  
+sabado 11/06 - tempo estudado:  
+domingo 12/06 - tempo estudado:  
 
 semana 3
