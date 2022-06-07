@@ -10,18 +10,18 @@ então
 
 semana 1 - bem sucedida!
 
-terça 31/05 - tempo estudado: 1:10:00 (tempo minimo diário) 
-quarta 01/06 - tempo estudado: 1:21:00 (tempo minimo diário)
-quinta 02/06 - tempo estudado: 1:19:00 (tempo minimo diário)
-sexta 03/06 - tempo estudado: 00:36:00 (- que o tempo minimo diário)
-sabado 04/06 - tempo estudado: 00:00:00 (- que o tempo minimo diário)
+terça 31/05 - tempo estudado: 1:10:00 (tempo minimo diário)   
+quarta 01/06 - tempo estudado: 1:21:00 (tempo minimo diário)  
+quinta 02/06 - tempo estudado: 1:19:00 (tempo minimo diário)  
+sexta 03/06 - tempo estudado: 00:36:00 (- que o tempo minimo diário)  
+sabado 04/06 - tempo estudado: 00:00:00 (- que o tempo minimo diário)  
 domingo 05/06 - tempo estudado: 04:01:41 (tempo recuperado, 1:36:00, práticado o tempo minimo e adicionado um tempo de folga)
 
 semana 2
 
-segunda 06/06 - tempo estudado: 1:31:00 (tempo minimo diário)
-terça 07/06 - tempo estudado: 
-quarta 08/06 - tempo estudado: 
+segunda 06/06 - tempo estudado: 1:31:00 (tempo minimo diário)  
+terça 07/06 - tempo estudado:   
+quarta 08/06 - tempo estudado:   
 quinta 09/06 - tempo estudado: 
 sexta 10/06 - tempo estudado: 
 sabado 11/06 - tempo estudado: 
