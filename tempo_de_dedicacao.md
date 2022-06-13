@@ -20,11 +20,11 @@ domingo 05/06 - tempo estudado: 04:01:41 (tempo recuperado, 1:36:00, práticado 
 semana 2
 
 segunda 06/06 - tempo estudado: 1:31:00 (tempo minimo diário)  
-terça 07/06 - tempo estudado:   
-quarta 08/06 - tempo estudado:   
-quinta 09/06 - tempo estudado:  
-sexta 10/06 - tempo estudado:  
-sabado 11/06 - tempo estudado:  
+terça 07/06 - tempo estudado:   0:00:00 (- que o tempo minimo diário)  
+quarta 08/06 - tempo estudado: 02:12:00 (folga para entrega), porém por falta de prática no dia anterior o tempo foi o minimo diario.  
+quinta 09/06 - tempo estudado: 00:00:00 (- que o tempo minimo diário)
+sexta 10/06 - tempo estudado:  00:00:00 (- que o tempo minimo diário)
+sabado 11/06 - tempo estudado:  00:00:00 (- que o tempo minimo diário)
 domingo 12/06 - tempo estudado:  
 
 semana 3
