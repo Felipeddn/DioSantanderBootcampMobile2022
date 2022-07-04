@@ -37,15 +37,33 @@ sexta 17/06 - 00:00:00   (- que o tempo minimo diário)
 sabado 18/06 - 00:00:00   (- que o tempo minimo diário)
 domingo 19/06 - 01:21:00  (tempo minimo diário)
 
-semana 4 - 
-(eu amo o github io e como ele completa as informações)
+semana 4 - semana completamente desastrosa ...
+(eu amo o github io e como ele completa as informações, se tornou pago, uma vergonha, pobre não pode usar nada útil para se desenvolver.)
 
-segunda 20/06 - 
-terça 21/06 - 
-quarta 22/06 - 
-quinta 23/06 - 
-sexta 24/06 - 
-sabado 25/06 - 
-domingo 26/06 - 
+segunda 20/06 - 00:00:00 (- que o tempo minimo diário)  
+terça 21/06 - 00:00:00 (- que o tempo mínimo diário)  
+quarta 22/06 - 00:00:00 (- que o tempo mínimo diário)  
+quinta 23/06 - 00:00:00 (- que o tempo mínimo diário)  
+sexta 24/06 -  00:00:00 (- que o tempo mínimo diário)  
+sabado 25/06 -  00:00:00 (- que o tempo mínimo diário)  
+domingo 26/06 -  00:00:00 (- que o tempo mínimo diário)  
 
 semana 5
+
+segunda 27/06 - 00:00:00 (- que o tempo minimo diário)  
+terça 28/06 - 00:00:00 (- que o tempo mínimo diário)  
+quarta 29/06 - 00:00:00 (- que o tempo mínimo diário)
+quinta 30/06 - 00:00:00 (- que o tempo mínimo diário)  
+sexta 01/07 -  00:00:00 (- que o tempo mínimo diário)  
+sabado 02/07 - 00:00:00 (- que o tempo mínimo diário)   
+domingo 03/07 -  
+
+Semana 6 
+
+segunda 04/07 - 
+terça 05/07 - 
+quarta 06/07 - 
+quinta 07/07 - 
+sexta 08/07 -  
+sabado 09/07 - 
+domingo 10/07 -  

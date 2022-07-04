@@ -77,6 +77,3 @@ assim podemos através do terminal usar o comando **git clone**
 **git clone link_https** 
 
 quem faz o controle de acesso no github é um componente chamado, credential manager core.
-
-
-
