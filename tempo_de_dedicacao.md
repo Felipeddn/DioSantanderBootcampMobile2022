@@ -56,14 +56,22 @@ quarta 29/06 - 00:00:00 (- que o tempo mínimo diário)
 quinta 30/06 - 00:00:00 (- que o tempo mínimo diário)  
 sexta 01/07 -  00:00:00 (- que o tempo mínimo diário)  
 sabado 02/07 - 00:00:00 (- que o tempo mínimo diário)   
-domingo 03/07 -  
+domingo 03/07 - 02:00:00 (+ que tempo minimo diário) 
 
 Semana 6 
 
-segunda 04/07 - 
-terça 05/07 - 
-quarta 06/07 - 
-quinta 07/07 - 
-sexta 08/07 -  
-sabado 09/07 - 
-domingo 10/07 -  
+segunda 04/07 - 00:00:00 (- que o tempo minimo diário)  
+terça 05/07 - 00:00:00 (- que o tempo minimo diário)  
+quarta 06/07 - 00:00:00 (- que o tempo minimo diário)  
+quinta 07/07 - 00:00:00 (- que o tempo minimo diário)  
+sexta 08/07 -  00:00:00 (- que o tempo minimo diário)  
+sabado 09/07 - 00:00:00 (- que o tempo minimo diário)  
+domingo 10/07 - 00:34:59 (- que o tempo minimo diário)
+
+segunda 11/07 - 
+terça 12/07 - 
+quarta 13/07 - 
+quinta 14/07 - 
+sexta 15/07 -  
+sabado 16/07 - 
+domingo 17/07 - 
