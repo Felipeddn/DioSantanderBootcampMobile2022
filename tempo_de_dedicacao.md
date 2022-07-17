@@ -48,7 +48,7 @@ sexta 24/06 -  00:00:00 (- que o tempo mínimo diário)
 sabado 25/06 -  00:00:00 (- que o tempo mínimo diário)  
 domingo 26/06 -  00:00:00 (- que o tempo mínimo diário)  
 
-semana 5
+semana 5 - completo desastre
 
 segunda 27/06 - 00:00:00 (- que o tempo minimo diário)  
 terça 28/06 - 00:00:00 (- que o tempo mínimo diário)  
@@ -58,7 +58,7 @@ sexta 01/07 -  00:00:00 (- que o tempo mínimo diário)
 sabado 02/07 - 00:00:00 (- que o tempo mínimo diário)   
 domingo 03/07 - 02:00:00 (+ que tempo minimo diário) 
 
-Semana 6 
+Semana 6 - completo desastre
 
 segunda 04/07 - 00:00:00 (- que o tempo minimo diário)  
 terça 05/07 - 00:00:00 (- que o tempo minimo diário)  
@@ -68,10 +68,12 @@ sexta 08/07 -  00:00:00 (- que o tempo minimo diário)
 sabado 09/07 - 00:00:00 (- que o tempo minimo diário)  
 domingo 10/07 - 00:34:59 (- que o tempo minimo diário)
 
-segunda 11/07 - 
-terça 12/07 - 
-quarta 13/07 - 
-quinta 14/07 - 
-sexta 15/07 -  
-sabado 16/07 - 
-domingo 17/07 - 
+Semana 7 - completo desastre, mas há esperança... de eu ser mais comprometido.
+
+segunda 11/07 - 00:00:00 (- que o tempo minimo diário)  
+terça 12/07 - 00:00:00 (- que o tempo minimo diário)  
+quarta 13/07 - 00:00:00 (- que o tempo minimo diário)  
+quinta 14/07 - 00:00:00 (- que o tempo minimo diário)  
+sexta 15/07 -  00:00:00 (- que o tempo minimo diário)  
+sabado 16/07 - 00:00:00 (- que o tempo minimo diário)  
+domingo 17/07 - 02:33:00 (folga para entrega) 
