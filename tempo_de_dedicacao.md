@@ -77,3 +77,13 @@ quinta 14/07 - 00:00:00 (- que o tempo minimo diário)
 sexta 15/07 -  00:00:00 (- que o tempo minimo diário)  
 sabado 16/07 - 00:00:00 (- que o tempo minimo diário)  
 domingo 17/07 - 02:33:00 (folga para entrega) 
+
+Semana 8 - 
+
+segunda 18/07 - 00:23:00 (- que o tempo minímo diário)
+terça 19/07 - 
+quarta 20/07 - 
+quinta 21/07 - 
+sexta 22/07 -  
+sabado 23/07 - 
+domingo 24/07 - 
