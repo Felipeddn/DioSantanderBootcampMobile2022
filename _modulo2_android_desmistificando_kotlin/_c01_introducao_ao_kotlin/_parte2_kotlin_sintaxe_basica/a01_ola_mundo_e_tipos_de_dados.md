@@ -43,7 +43,7 @@ println(Short.MAX_VALUE)
 
 O Kotlin possui métodos que convertem tipos de dados são eles: 
 
-´´´
+```
 fun main () {  
 //Conversão para *Byte*  
 toByte()
@@ -66,4 +66,4 @@ toInt()
 //Conversão para *Char*  
 toChar()  
 }
-´´´
+```
