@@ -78,12 +78,12 @@ sexta 15/07 -  00:00:00 (- que o tempo minimo diário)
 sabado 16/07 - 00:00:00 (- que o tempo minimo diário)  
 domingo 17/07 - 02:33:00 (folga para entrega) 
 
-Semana 8 - 
+Semana 8 - houve uma melhora em relação a semana passada, mas deixou muito a desejar, precisa de melhora de dedicação ainda.
 
 segunda 18/07 - 00:23:00 (- que o tempo minímo diário)
-terça 19/07 - 
-quarta 20/07 - 
-quinta 21/07 - 
-sexta 22/07 -  
-sabado 23/07 - 
-domingo 24/07 - 
+terça 19/07 - 00:18:00 (- que o tempo mínimo diário)
+quarta 20/07 - 00:38:00 (- que o tempo mínimo diário)
+quinta 21/07 - 00:00:00 (- que o tempo mínimo diário)
+sexta 22/07 -  00:00:00 (- que o tempo mínimo diário)
+sabado 23/07 - 00:00:00 (- que o tempo mínimo diário)
+domingo 24/07 - 02:10:00 (folga para entrega)
