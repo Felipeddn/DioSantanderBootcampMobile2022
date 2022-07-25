@@ -4,7 +4,7 @@ Instrutora do Curso: Ana Luísa Dias
 
 Abaixo segue códigos que apresentam erros e vamos entender os motivos de tais erros 
 
-´´´
+```  
 fun main() {
 
 // caso 1  
@@ -15,7 +15,7 @@ currentAge = 22 //erro
 var currentYear = "Ano"  
 currentYear = 2022 //erro  
 }
-´´´
+```
 
 No primeiro caso, caso 1, o erro se dá pela falta de referência que o código possui, o Kotlin não é uma linguagem de tipagem dinamica, podemos atribuir tipos a uma variável através da declaração do tipo explicitamente,
 
