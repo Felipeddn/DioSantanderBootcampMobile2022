@@ -87,3 +87,14 @@ quinta 21/07 - 00:00:00 (- que o tempo mínimo diário)
 sexta 22/07 -  00:00:00 (- que o tempo mínimo diário)
 sabado 23/07 - 00:00:00 (- que o tempo mínimo diário)
 domingo 24/07 - 02:10:00 (folga para entrega)
+
+
+Semana 9 
+
+segunda 25/07 - 00:00:00 (- que o tempo minímo diário)
+terça 26/07 - 00:00:00 (- que o tempo mínimo diário)
+quarta 27/07 - 00:42:00 (- que o tempo mínimo diário)
+quinta 28/07 - 
+sexta 29/07 -  
+sabado 30/07 - 
+domingo 31/07 - 
