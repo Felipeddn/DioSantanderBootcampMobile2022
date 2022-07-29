@@ -94,7 +94,7 @@ Semana 9
 segunda 25/07 - 00:00:00 (- que o tempo minímo diário)
 terça 26/07 - 00:00:00 (- que o tempo mínimo diário)
 quarta 27/07 - 00:42:00 (- que o tempo mínimo diário)
-quinta 28/07 - 
+quinta 28/07 - 1:15:00 (tempo minimo diário) 
 sexta 29/07 -  
 sabado 30/07 - 
 domingo 31/07 - 
