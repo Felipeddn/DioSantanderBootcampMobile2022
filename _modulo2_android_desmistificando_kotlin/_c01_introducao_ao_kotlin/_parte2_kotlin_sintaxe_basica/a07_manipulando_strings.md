@@ -12,7 +12,7 @@ Instrutora do Curso: Ana Luísa Dias
 
 ## Métodos de Strings abordadas como Array
 
-Fist() - Procura a primeira ocorrência de um caractere específico.
+First() - Procura a primeira ocorrência de um caractere específico.
 
 Last() - Procura a última ocorrência de um caractere específico. 
 
