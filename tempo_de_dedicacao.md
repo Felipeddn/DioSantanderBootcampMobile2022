@@ -89,12 +89,25 @@ sabado 23/07 - 00:00:00 (- que o tempo mínimo diário)
 domingo 24/07 - 02:10:00 (folga para entrega)
 
 
-Semana 9 
+Semana 9 - novamente um desastre
 
 segunda 25/07 - 00:00:00 (- que o tempo minímo diário)
 terça 26/07 - 00:00:00 (- que o tempo mínimo diário)
 quarta 27/07 - 00:42:00 (- que o tempo mínimo diário)
 quinta 28/07 - 1:15:00 (tempo minimo diário) 
-sexta 29/07 -  
-sabado 30/07 - 
-domingo 31/07 - 
+sexta 29/07 -  00:00:00 (- que o tempo mínimo diário)
+sabado 30/07 - 00:00:00 (- que o tempo mínimo diário)
+domingo 31/07 - 00:00:00 (- que o tempo mínimo diário)
+
+Semana 10 - 
+
+segunda 01/08 - 00:00:00 (- que o tempo minimo diário)
+terça 02/08 - 02:41:00 (folga para entrega)
+quarta 03/08 - 
+quinta 04/08 -
+sexta 05/08 -
+sabado 06/08 -
+domingo 07/08 -
+
+Semana 11 -
+
